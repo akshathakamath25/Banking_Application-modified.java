@@ -117,7 +117,7 @@ public class BankingApplication {
                         break;
                     case 6:
                         System.out.print("Sorry we are not able to help you!!");
-                        System.out.println("\n~\n");
+            
                         break;
                     default:
                         System.out.println("Invalid choice!");
